@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pharmacist">Pharmacist</string>
+    <string name="admin">Admin</string>
+    <string name="doctor">Doctor</string>
+    <string name="patient">Patient</string>
+</resources>

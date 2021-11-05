@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/patientButton"
+        android:layout_width="194dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="108dp"
+        android:text="@string/patient"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/doctorButton"
+        android:layout_width="189dp"
+        android:layout_height="75dp"
+        android:layout_below="@+id/patientButton"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="80dp"
+        android:text="@string/doctor"
+        app:layout_constraintStart_toEndOf="@+id/pharmacistButton"
+        app:layout_constraintTop_toBottomOf="@+id/adminButton"
+        tools:ignore="UnknownId" />
+
+    <Button
+        android:id="@+id/pharmacistButton"
+        android:layout_width="197dp"
+        android:layout_height="75dp"
+        android:layout_below="@+id/doctorButton"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="80dp"
+        android:text="@string/pharmacist"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/patientButton" />
+
+    <Button
+        android:id="@+id/adminButton"
+        android:layout_width="189dp"
+        android:layout_height="69dp"
+        android:layout_below="@+id/pharmacistButton"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="108dp"
+        android:text="@string/admin"
+        app:layout_constraintStart_toEndOf="@+id/patientButton"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

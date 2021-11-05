@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home.xml" value="0.33" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_add_drug.xml" value="0.25" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_register_new.xml" value="0.33" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_register_new_admin.xml" value="0.22" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_register_new_doctor.xml" value="0.3111111111111111" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_register_new_patient.xml" value="0.22" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_register_new_pharmacist.xml" value="0.22" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_search_users.xml" value="0.22" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_search_users_admin.xml" value="0.23958333333333334" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_search_users_admin_update.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_search_users_doctor.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_search_users_doctor_update.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_search_users_patient.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_search_users_patient_update.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_search_users_pharmacist.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_search_users_pharmacist_update.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_update_details_admin_update.xml" value="0.1" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_update_details_doctor_update.xml" value="0.1" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_update_details_patient_update.xml" value="0.1" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_home_update_details_pharmacist_update.xml" value="0.1" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_admin_login.xml" value="0.5" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_doctor_home.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_doctor_home_search_patient.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_doctor_home_search_patient_add.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_doctor_home_search_patient_update.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_doctor_home_search_patient_view.xml" value="0.21739130434782608" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_doctor_login.xml" value="0.1" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_main.xml" value="0.3677536231884058" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_patient_home.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_patient_home_view_particulars.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_patient_home_view_prescriptions.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_patient_home_view_prescriptions_view.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_patient_login.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_pharmacist_home.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_pharmacist_home_searchtype.xml" value="0.182370820668693" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_pharmacist_home_searchtype_complete.xml" value="0.1" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_pharmacist_home_searchtype_complete_view.xml" value="0.1" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_pharmacist_home_searchtype_not_ready_view.xml" value="0.1" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_pharmacist_home_searchtype_ready_view.xml" value="0.1" />
+        <entry key="..\:/New folder (2)/projects/fkmylife/app/src/main/res/layout/activity_pharmacist_login.xml" value="0.182370820668693" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
